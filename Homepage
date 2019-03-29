@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+
+	<head>
+    <link rel = "stylesheet" type = "text/css" href="HomepageCss.css">
+		<!--This is the Title of the Webpage.-->
+		<title>Go Away - Homepage</title>
+	</head>
+
+	<body>
+    <div class = "grid-container">
+      <div class = "item1">
+      </div>
+
+
+      <!--This is the logo and the slogan of the Travel Agency and the styling of it-->
+      <h1> Go Travel </h1>
+      <em> <b>Go Away Go Travel</b></em>
+      </div>
+
+
+
+      <div class = "item2">
+        <!--This is the table/header containing all the links to the different websites -->
+        <ul>
+          <li><a href="HomePage.html">  Home</a></li>
+          <li><a href="Destinations.html"> Destinations</a></li>
+          <li><a href= "Enquires.html"> Enquires</a></li>
+          <li><a href="AboutUs.html"> About Us </a> </li>
+        </ul>
+
+        </div>
+        <br>
+
+
+        <div class = "item3">
+        <!--Pictures used as a header -->
+          <img src = "Photos/IMG-1206.jpg" alt = "Beach">
+        </div>
+
+
+        <div class = "item4">
+          <h2 > Popular Destinations:</h2>
+
+      		<!--Table containing the three pictures of the most common types of hollidays.-->
+      		<table >
+      			<tr>
+      				<td> <img src = "Photos/IMG_4432.JPG" alt = "Accomodation" ></td>
+      				<td> <img src = "Photos/IMG_4660.jpg" alt = "Girrafe during sunset" ></td>
+      				<td> <img src = "Photos/IMG_4429.jpg" alt = "landscape" ></td>
+      			</tr>
+      		</table>
+        </div>
+
+
+        <div class = "item5">
+          <!--Footer Info -->
+      		<p> Go Travel - we pay attention to details </p>
+      		<p > For that premium experience </p>
+
+        <div class = "item6">
+          <!--Link to Validation -->
+      		<a ><img src = "Photos/Logo.png" alt = "Validation Links"></a>
+        </div>
+
+       </div>
+
+
+
+
+
+      </div>
+
+	</body>
+</html>
