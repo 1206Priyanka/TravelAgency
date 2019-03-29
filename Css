@@ -1,0 +1,53 @@
+body{
+background-image:url("Photos/Background.jpg");
+color:white;
+}
+
+img{
+  width:100%;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto ;
+}
+
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+
+}
+
+h1{
+  color:brown;
+  font-family: Arial Black;
+}
+
+em{
+  color: orange
+}
+
+ul {
+  list-style-type: none;
+  margin: 10;
+  padding:10;
+  overflow: hidden;
+  background-color: brown;
+
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: inline-block;
+  color:white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
